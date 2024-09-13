@@ -1,0 +1,31 @@
+body{
+  font-family: Arial;
+  background-color: rgb(0,0,0);
+}
+
+button{
+  font-size: 26px;
+  border: none;
+  width: 60px;
+  height: 60px;
+  border-radius: 60px;
+  color: #fff;
+  background-color: #333;
+  cursor: pointer;
+  margin: 0 5px 0 0 ;
+  padding: 1px 6px;
+}
+
+.sign{
+  background-color:rgb(254, 160, 10);
+}
+
+.clear-btn{
+  font-size: 17px;
+}
+
+.monitor{
+  font-size: 45px;
+  color:#fff;
+  margin: 15px 0 5px;
+}
